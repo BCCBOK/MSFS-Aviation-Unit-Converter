@@ -45,11 +45,11 @@ MSFS Aviation Unit Converter 是一款专为飞行爱好者设计的单位转换
 
 | 转换类型 | 中文描述 | 英文描述 | 换算系数 |
 |---------|---------|---------|---------|
-| meter_feet | 米 ↔ 英尺 | Meter ↔ Feet | 1米 = 3.28084英尺 |
-| hpa_inhg | 百帕 ↔ 英寸水银柱 | hPa ↔ inHg | 1百帕 = 0.02953英寸水银柱 |
-| pound_kg | 磅 ↔ 千克 | Pound ↔ Kilogram | 1磅 = 0.453592千克 |
-| nm_km | 海里 ↔ 公里 | NM ↔ KM | 1海里 = 1.852公里 |
-| knot_kmh | 节 ↔ 千米/小时 | Knot ↔ km/h | 1节 = 1.852千米/小时 |
+| Meter_Feet | 米 ↔ 英尺 | Meter ↔ Feet | 1米 = 3.28084英尺 |
+| Hpa_Inhg | 百帕 ↔ 英寸水银柱 | hPa ↔ inHg | 1百帕 = 0.02953英寸水银柱 |
+| Pound_Kg | 磅 ↔ 千克 | Pound ↔ Kilogram | 1磅 = 0.453592千克 |
+| Nm_Km | 海里 ↔ 公里 | NM ↔ KM | 1海里 = 1.852公里 |
+| Knot_Kmh | 节 ↔ 千米/小时 | Knot ↔ km/h | 1节 = 1.852千米/小时 |
 
 ## 技术说明
 

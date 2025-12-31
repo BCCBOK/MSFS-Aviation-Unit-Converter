@@ -17,8 +17,7 @@ MSFS Aviation Unit Converter 是一款专为飞行爱好者设计的单位转换
 - 🌙 **美观界面**：采用深色主题，护眼且专业
 
 ## 界面
-![中文页面](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/blob/main/.github/images/img.png)
-![英文页面](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/blob/main/.github/images/img_1.png)
+| ![中文页面](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/blob/main/.github/images/img.png) | ![英文页面](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/blob/main/.github/images/img_1.png) |
 
 ## 使用方法
 

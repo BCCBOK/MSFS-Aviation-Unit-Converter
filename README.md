@@ -1,10 +1,12 @@
-# MSFS飞行单位换算器 (MSFS Aviation Unit Converter)
+# MSFS Aviation Unit Converter (MSFS飞行单位换算器)
 
 ![MSFS飞行单位换算器](https://img.shields.io/badge/MSFS_Tool-Aviation_Unit_Converter-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTcgMTRMMTQgN0w3IDExTDcgMTVaIiBzdHJva2U9IiM5Q0EzQUYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iIzJGOUNGRiIvPgo8cGF0aCBkPSJNMTYgMTVMMTggMTVMMTYgMTVaIiBzdHJva2U9IiM5Q0EzQUYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iIzJGOUNGRiIvPgo8cGF0aCBkPSJNMTggMTVMMTUgMTVMMTggMTVaIiBzdHJva2U9IiM5Q0EzQUYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iIzJGOUNGRiIvPgo8cGF0aCBkPSJNMTUgMTVMMTMgMTVMMTUgMTVaIiBzdHJva2U9IiM5Q0EzQUYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iIzJGOUNGRiIvPgo8cGF0aCBkPSJNMTMgMTVMMTIgMTVMMTMgMTVaIiBzdHJva2U9IiM5Q0EzQUYiIHN0cm9rZS13aWR0aD0iMiIgZmlsbD0iIzJGOUNGRiIvPgo8L3N2Zz4K)
 
 ## 简介
 
 MSFS Aviation Unit Converter 是一款专为飞行爱好者设计的单位转换工具，支持多种飞行常用单位的双向转换。这款工具特别适合微软飞行模拟（MSFS）等模拟飞行玩家使用。
+
+[![English](https://img.shields.io/badge/English-README-blue?style=for-the-badge&logo=github)](./README_EN.md) [![Releases](https://img.shields.io/badge/Releases-green?style=for-the-badge&logo=github)](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/releases)
 
 ## 功能特点
 
@@ -45,11 +47,11 @@ MSFS Aviation Unit Converter 是一款专为飞行爱好者设计的单位转换
 
 | 转换类型 | 中文描述 | 英文描述 | 换算系数 |
 |---------|---------|---------|---------|
-| Meter_Feet | 米 ↔ 英尺 | Meter ↔ Feet | 1米 = 3.28084英尺 |
-| Hpa_Inhg | 百帕 ↔ 英寸水银柱 | hPa ↔ inHg | 1百帕 = 0.02953英寸水银柱 |
-| Pound_Kg | 磅 ↔ 千克 | Pound ↔ Kilogram | 1磅 = 0.453592千克 |
-| Nm_Km | 海里 ↔ 公里 | NM ↔ KM | 1海里 = 1.852公里 |
-| Knot_Kmh | 节 ↔ 千米/小时 | Knot ↔ km/h | 1节 = 1.852千米/小时 |
+| meter_feet | 米 ↔ 英尺 | Meter ↔ Feet | 1米 = 3.28084英尺 |
+| hpa_inhg | 百帕 ↔ 英寸水银柱 | hPa ↔ inHg | 1百帕 = 0.02953英寸水银柱 |
+| pound_kg | 磅 ↔ 千克 | Pound ↔ Kilogram | 1磅 = 0.453592千克 |
+| nm_km | 海里 ↔ 公里 | NM ↔ KM | 1海里 = 1.852公里 |
+| knot_kmh | 节 ↔ 千米/小时 | Knot ↔ km/h | 1节 = 1.852千米/小时 |
 
 ## 技术说明
 

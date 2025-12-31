@@ -6,6 +6,9 @@
 
 MSFS Aviation Unit Converter is a unit conversion tool designed specifically for aviation enthusiasts, supporting bidirectional conversion of various commonly used aviation units. This tool is particularly suitable for Microsoft Flight Simulator (MSFS) and other flight simulation players.
 
+
+[![中文](https://img.shields.io/badge/中文-README-blue?style=for-the-badge&logo=github)](./README.md) [![Releases](https://img.shields.io/badge/Releases-green?style=for-the-badge&logo=github)](https://github.com/BCCBOK/MSFS-Aviation-Unit-Converter/releases) 
+
 ## Features
 
 - ✅ **Multiple Unit Conversions**: Support for 5 common aviation unit conversions
@@ -75,3 +78,4 @@ This project is licensed under the MIT License. For details, please refer to the
 ---
 
 **Disclaimer**: The conversion results provided by this tool are for reference only and are intended for in-game use only. For critical applications, please use professional measuring equipment for verification.
+
